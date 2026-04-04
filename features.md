@@ -8,4 +8,6 @@
 * [点数](./points)
 * [商店](./shop)
 * [mcMMO](./mcmmo)
+* [箱子锁](./blocklocker)
+* [领地](./dominion)
 * [其他](./other-features)

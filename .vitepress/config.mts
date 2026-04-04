@@ -31,6 +31,8 @@ export default defineConfig({
           { text: '点数', link: '/points' },
           { text: '商店', link: '/shop' },
           { text: 'McMMO', link: '/mcmmo' },
+          { text: '箱子锁', link: '/blocklocker' },
+          { text: '领地', link: '/dominion' },
           { text: '其他功能(投票 举报 svc)', link: '/other-features' }
         ]
       }
