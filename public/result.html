@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>考核结果</title>
+</head>
+<body>
+    <p>请</p>
+    <pre id="result"></pre>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const name = params.get('name');
+        const age = params.get('age');
+
+        document.getElementById('result').innerHTML = 
+            `姓名: ${name}, 年龄: ${age}`;
+    </script>
+</body>
+</html>

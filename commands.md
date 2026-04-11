@@ -36,16 +36,31 @@
 ## 长期任务
 | 命令 Command | 描述 Description |
 |:-|:-|
-| `/bq` | 打开长期任务 |
-
-## 更多的鱼
-| 命令 Command | 描述 Description |
-|:-|:-|
+| `/bq` | 打开长期任务 |     
 
 ## 点数
 | 命令 Command | 描述 Description |
 |:-|:-|
 | `/p` | 查看自己的点数 |
+
+## 经济
+| 命令 Command | 描述 Description |
+|:-|:-|
+| `/balance` | 查看自己的余额 |
+
+## 箱子商店
+| 命令 Command | 描述 Description |
+|:-|:-|
+| `/qs create <price>` | 面向箱子，将自己手中的物品设为商品，单价price |
+| `/qs remove` | 面向箱子，移除箱子的商品状态 |
+
+# 游戏时长
+| 命令 Command | 描述 Description |
+|:-|:-|
+| `/playtime` | 查看自己的总游戏时长 |
+| `/playtime rewards` | 查看自己的奖励 |
+| `/playtime streaks` | 查看自己的连登天数 |
+| `/playtime top` | 查看游戏时长排行榜 |
 
 ## 商店
 | 命令 Command | 描述 Description |
