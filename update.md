@@ -3,7 +3,7 @@
 更详细的请见[Github](https://github.com/zhentouyu/XiyuSurvival-docs)
 
 ## 20260412更新
-* 添加了[关于卡顿机器的处理方案](./rule)
+* 添加了[关于卡顿机器的处理方案](./rules)
 * 更新了服务器部分规则（关于卡顿和崩溃）
 
 ## 20260411更新
