@@ -35,9 +35,10 @@ export default defineConfig({
           { text: '商店', link: '/shop' },
           { text: '资源世界', link: '/mv' },
           { text: '游戏时长', link: '/playtime' },
-          { text: 'McMMO', link: '/mcmmo' },
+          { text: '礼物', link: '/gift' },
           { text: '箱子锁', link: '/blocklocker' },
           { text: '领地', link: '/dominion' },
+          { text: '警告和封禁', link: '/ab' },
           { text: '其他功能(投票 举报 svc)', link: '/other-features' }
         ]
       }
