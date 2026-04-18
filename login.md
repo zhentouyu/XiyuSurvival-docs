@@ -4,9 +4,12 @@
 | `/login <password>` | 登录 |
 | `/register <password> <password>` | 注册 |
 | `/changepassword <old> <new>` | 修改密码 |
+| `/totp` | TOTP相关 |
 
 为了防止账号被盗用，我们启用了登录插件。
 
 请放心设置密码，但请记牢，我们完全看不到你的密码。但是，Minecraft的传输可能并不安全，因此建议使用与其他网站或应用不同的密码。
+
+如果有条件，建议使用TOTP（Time-based One-time Password，基于时间的一次性口令）
 
 第一次进服跟随提示注册一个密码，之后登录即可。IP不变的情况下，登录可以保持14天。
