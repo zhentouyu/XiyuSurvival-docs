@@ -2,6 +2,9 @@
 
 更详细的请见[Github](https://github.com/zhentouyu/XiyuSurvival-docs)
 
+## 20260419更新
+* 添加了[关于进行易造成客户端卡顿或崩溃的玩法的认定和处罚](./rules)
+
 ## 20260418更新
 * 添加了[关于盗号的认定、处罚和预防](./rules)
 * 添加了[关于破坏的认定和处罚](./rules)
