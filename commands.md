@@ -18,10 +18,12 @@
 | `/tpano` | 拒绝传送申请 |
 | `/tpacancel` | 取消传送申请 |
 | `/tpr` | 随机传送(范围x,z -5000~5000) |
-| `/sethome <name>`或`/setwarp <name>` | 设置传送点(home和warp互相独立) |
-| `/home <name>`或`/warp <name>` | 传送到指定传送点(/home不加target则传送到自己的床(若有)) |
-| `/delhome`或`/delwarp` | 删除传送点 |
-| `/homes`或`/warps` | 列出所有传送点 |
+| `/sethome <name>` | 设置传送点(个人) |
+| `/home <name>` | 传送到指定传送点(/home不加target则传送到自己的床(若有)) |
+| `/delhome` | 删除传送点 |
+| `/homes` | 列出所有传送点 |
+| `/warp <name>` | 传送到全服传送点 |
+| `/warps` | 列出所有全服传送点 |
 
 ## 连锁挖矿
 | 命令 Command | 描述 Description |

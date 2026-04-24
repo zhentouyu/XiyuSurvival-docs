@@ -15,6 +15,7 @@ export default defineConfig({
         items: [
           { text: '服务器概述', link: '/overview' },
           { text: '玩家命令列表', link: '/commands' },
+          { text: 'MCDR命令列表', link: '/mcdr'},
           { text: '联系我们', link: '/contact' },
           { text: '服务器规则解释', link: '/rules' },
           { text: '文档更新日志', link: '/update' }
@@ -38,6 +39,7 @@ export default defineConfig({
           { text: '礼物', link: '/gift' },
           { text: '箱子锁', link: '/blocklocker' },
           { text: '领地', link: '/dominion' },
+          { text: '投票和测验', link: '/survey' },
           { text: '警告和封禁', link: '/ab' },
           { text: '其他功能(投票 举报 svc)', link: '/other-features' }
         ]
