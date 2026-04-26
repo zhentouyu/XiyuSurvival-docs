@@ -36,7 +36,7 @@ export default defineConfig({
           { text: '商店', link: '/shop' },
           { text: '资源世界', link: '/mv' },
           { text: '游戏时长', link: '/playtime' },
-          { text: '礼物', link: '/gift' },
+          { text: '邮件', link: '/mail' },
           { text: '箱子锁', link: '/blocklocker' },
           { text: '领地', link: '/dominion' },
           { text: '投票和测验', link: '/survey' },
