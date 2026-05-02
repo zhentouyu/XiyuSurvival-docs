@@ -18,6 +18,7 @@ export default defineConfig({
           { text: 'MCDR命令列表', link: '/mcdr'},
           { text: '联系我们', link: '/contact' },
           { text: '服务器规则解释', link: '/rules' },
+          { text: 'Forge服', link: '/forge' },
           { text: '文档更新日志', link: '/update' }
         ]
       },
