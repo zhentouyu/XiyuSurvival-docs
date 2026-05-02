@@ -24,7 +24,7 @@ Fish-BSS可以注册在LittleSkin上被占用的角色。
 
 然后就可以进服了。
 
-## Mod列表（暂时）
+## 玩家必装Mod列表（暂时）
 
 * JEI物品管理器
 * 农夫乐事
@@ -40,3 +40,10 @@ Fish-BSS可以注册在LittleSkin上被占用的角色。
 
 ## 下载整合包（PCL）
 [https://surmc.943689.top/1.20.1-forge-zhentouyu.zip](https://surmc.943689.top/1.20.1-forge-zhentouyu.zip)
+
+## 注意
+服务器规则同[survival](./overview)。
+
+Forge没有像survival一样成熟的区域回档和玩家回档方案。故请务必注意数据安全。
+
+有用的paper插件将逐渐寻找替代mod。
