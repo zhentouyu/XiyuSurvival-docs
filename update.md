@@ -2,6 +2,9 @@
 
 更详细的请见[Github](https://github.com/zhentouyu/XiyuSurvival-docs)
 
+## 20260530更新
+* 添加了一些Forge mod(./forge)
+
 ## 20260424更新
 * 添加了[投票和测验](./survey)
 * 添加了[MCDR命令列表](./mcdr)
