@@ -3,7 +3,9 @@
 
 服主的QQ：2190783369
 
-服务器新QQ群：[1097523270](https://qm.qq.com/q/OXzAtj5PSU)
+Survival服务器新QQ群：[1097523270](https://qm.qq.com/q/OXzAtj5PSU)
+
+NeoForge服务器QQ群：[980817391](https://qm.qq.com/q/XQgmGeHL0S)
 
 联系服主微信可以进我们微信群，消息更多，但可能过于详细，偏向底层，有时会比较烦，最近更新不多。了解mc相关消息建议去QQ群。
 

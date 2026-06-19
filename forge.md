@@ -5,6 +5,8 @@ NeoForge服使用外置登录(Authlib-injector)，和Survival服不同。
 
 NeoForge服地址：**forge.943689.top**
 
+NeoForge QQ群：**980817391**
+
 ## 登录方式
 请前往[LittleSkin](https://littleskin.cn)或[Fish-BSS皮肤站](https://skin.943689.top)注册一个账号。
 
